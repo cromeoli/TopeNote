@@ -13,6 +13,10 @@ Para ejecutarla solo hay que ejecutar el siguiente comando en una terminal:
 ~~~
 node .\topenote.js
 ~~~
+o en su defecto:
+~~~
+node topenote.js
+~~~
 
 ## Librerías utilizadas
 **Readline Sync**

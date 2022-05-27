@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notas>
+  <nota>
+    <id>1</id>
+    <titulo>Nota de prueba 2</titulo>
+    <cuerpo>
+      Lorem ipsum lorem ipsum
+      Lorem ipsum lorem ipsum
+      Lorem ipsum lorem ipsum
+      Lorem ipsum lorem ipsum
+    </cuerpo>
+    <fechaHora>26/5/2022 Hora: 23:53:55</fechaHora>
+    <categoria>Valero</categoria>
+  </nota>
+  <nota>
+    <id>2</id>
+    <titulo>Nota de prueba 2</titulo>
+    <cuerpo>Lorem ipsum lorem ipsum</cuerpo>
+    <fechaHora>27/5/2022 Hora: 0:59:42</fechaHora>
+  </nota>
+  <nota>
+    <id>3</id>
+    <titulo>Modificado el titulo.</titulo>
+    <cuerpo>Cuerpo de prueba de la primera nota.</cuerpo>
+    <fechaHora>27/5/2022 Hora: 3:50:48</fechaHora>
+  </nota>
+</notas>

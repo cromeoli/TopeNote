@@ -34,6 +34,11 @@ npm i xml2js
 
 ## Uso
 
+Hacemos uso de los comandos anteriormente indicados para iniciarla:
+
+![topenote](https://user-images.githubusercontent.com/92324278/170615057-db270a5b-541e-4672-af55-b5dc5a03fdda.gif)
+
+
 ![imagen](https://user-images.githubusercontent.com/92324278/170611861-616bb14a-b03d-4f7e-a35f-090122ab2e14.png)
 
 Al iniciar aparecerá un menú como éste, para navegar entre las distintas opciones solo tendremos que introducir por pantalla el número que nos conduce al comando deseado. 
